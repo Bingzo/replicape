@@ -1,6 +1,4 @@
-
-<<<<<<< HEAD
-COMPILER=../libs/PyPRUSS/PASM/pasm -b 
+COMPILER=~/replicape/libs/PyPRUSS/PASM/pasm -b 
 FILENAME=firmware_pru_0
 
 .PHONY: clean all
